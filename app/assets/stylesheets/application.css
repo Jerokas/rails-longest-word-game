@@ -1,4 +1,9 @@
-/*
+li {
+display: inline-block;
+background: #e1e1e1;
+border-top: 1px solid #d0d0d0;
+
+}/*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
